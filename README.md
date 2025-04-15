@@ -63,8 +63,8 @@ Beautiful visualizations using **PCA (Principal Component Analysis)** and **deci
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/Iris_Dataset_Classifier.git
-cd Iris_Dataset_Classifier
+git clone https://github.com/advait-vikas/Iris_Dataset_Classification.git
+cd Iris_Dataset_Classification
 
 # (Optional) Create a virtual environment
 python -m venv venv
