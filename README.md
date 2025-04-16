@@ -5,8 +5,9 @@ This project demonstrates the classification of the famous **Iris flower dataset
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
+- Naive Bayes
 - Decision Tree
-- Random Forest
+- XGBoost 
 
 Beautiful visualizations using **PCA (Principal Component Analysis)** and **decision boundaries** are included to show how each model performs in reduced 2D space.
 
@@ -29,13 +30,15 @@ Beautiful visualizations using **PCA (Principal Component Analysis)** and **deci
 
 ## 🧠 Models Used
 
-| Model                | Technique        |
-|---------------------|------------------|
-| Logistic Regression | Linear Model     |
-| KNN                 | Instance-Based   |
-| SVM (RBF)           | Margin-Based     |
-| Decision Tree       | Tree-Based       |
-| Random Forest       | Ensemble Method  |
+| Model                | Technique           |
+|---------------------|---------------------|
+| K-Nearest Neighbors | Instance-Based      |
+| SVM (RBF Kernel)    | Margin-Based        |
+| Logistic Regression | Linear Model        |
+| Naive Bayes         | Probabilistic Model |
+| Decision Tree       | Tree-Based          |
+| XGBoost             | Ensemble Method     |
+
 
 ---
 
